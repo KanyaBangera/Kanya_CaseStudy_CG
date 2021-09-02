@@ -1,11 +1,11 @@
 # Kanya_CaseStudy :On-Demand Car Wash Service  
 
-# Stakeholders
+## Stakeholders
     a) Customer
     b) Car Washer
     c) Admin
 
-# Flow of Software 
+## Flow of Software 
     1)open the app
     2)Login/register {customer/car washer}
     3)Customer checks for nearby car wash service provider
